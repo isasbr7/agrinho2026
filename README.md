@@ -1,1 +1,3 @@
-# agrinho2026
+Este projeto foi desenvolvido com o objetivo de conscientizar sobre a importância do agronegócio sustentável, mostrando que é possível aumentar a produção de alimentos sem comprometer os recursos naturais. O tema está alinhado ao Agrinho 2026, que incentiva a reflexão sobre a relação entre desenvolvimento econômico, preservação ambiental e qualidade de vida.
+A página apresenta informações sobre os desafios enfrentados pelo setor agrícola, as soluções sustentáveis que vêm sendo adotadas e a importância da participação de toda a sociedade na construção de um futuro mais equilibrado.
+O projeto foi adaptado, organizado e personalizado conforme os objetivos propostos para o trabalho, utilizando o ChatGPT como uma ferramenta de aprendizagem e suporte durante o processo de desenvolvimento.
